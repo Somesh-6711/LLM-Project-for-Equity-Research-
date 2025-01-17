@@ -1,0 +1,11 @@
+streamlit
+openai
+requests
+langchain
+faiss-cpu
+transformers
+nltk
+numpy
+pandas
+scikit-learn
+dotenv
